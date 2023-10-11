@@ -1,0 +1,6 @@
+﻿  Ydb.cpp
+C:\Users\ygtle\OneDrive\Belgeler\GitHub\Ydb\Ydb.h(15,3): warning C4091: 'static ': ignored on left of 'ydb::DataTags' when no variable is declared
+  main.cpp
+C:\Users\ygtle\OneDrive\Belgeler\GitHub\Ydb\Ydb.h(15,3): warning C4091: 'static ': ignored on left of 'ydb::DataTags' when no variable is declared
+  Generating Code...
+  Ydb.vcxproj -> C:\Users\ygtle\OneDrive\Belgeler\GitHub\Ydb\x64\Debug\Ydb.exe
